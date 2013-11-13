@@ -1,5 +1,5 @@
 ---
 template: index.jade
-title: SF Dev Labs
+title: Check contents/index.md to change this :)
 category: nothing
 ---
