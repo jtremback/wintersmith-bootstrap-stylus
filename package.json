@@ -1,0 +1,9 @@
+{
+  "name": "sfdevlabs.com",
+  "dependencies": {
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "wintersmith-stylus": "*"
+  }
+}

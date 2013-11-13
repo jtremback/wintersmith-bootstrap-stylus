@@ -1,0 +1,13 @@
+{
+  "locals": {
+    "url": "http://sfdevlabs.com",
+    "description": "An easy way to start a Wintersmith site with Bootstrap-stylus",
+    "author": "Jehan Tremback"
+  },
+  "plugins": [
+    "./node_modules/wintersmith-stylus/"
+  ],
+  "require": {
+    "_": "underscore"
+  }
+}
